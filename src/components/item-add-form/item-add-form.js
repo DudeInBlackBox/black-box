@@ -35,8 +35,8 @@ export default class ItemAddForm extends Component {
           />
         </div>
         <div className="form-group col-md-3">
-          <button className="btn btn-outline-secondary">
-            Add item
+          <button className="btn btn-outline-secondary btn-block">
+            Do it!
           </button>
         </div>
 
